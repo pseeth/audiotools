@@ -53,7 +53,6 @@ setup(
         "flatten-dict",
         "markdown2",
         "randomname",
-        # Borrowing pin from tensorboard source: https://github.com/tensorflow/tensorboard/commit/e795312f70537cb9c9ab4bd2a08a03e77f0356a5.
         "tensorboard",
         "tqdm",
     ],
